@@ -1,0 +1,6 @@
+.container div:first-child {
+    margin-top: 27px;
+    margin-bottom: 27px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
