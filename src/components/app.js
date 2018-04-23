@@ -1,13 +1,13 @@
-import React from 'react';
+import React from "react";
 
-import BookList from '../containers/book_list';
-import BookDetail from '../containers/book_detail';
+import BookList from "../containers/book_list";
+import BookDetail from "../containers/book_detail";
 
-export default function() {
+export default () => {
     return (
         <div>
-            <BookList />
-            <BookDetail />
+            <BookList/>
+            <BookDetail/>
         </div>
-    )
+    );
 }
