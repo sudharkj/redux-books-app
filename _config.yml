@@ -1,0 +1,6 @@
+repository: sudharkj/redux-books-app
+title: redux-books-app
+logo: /assets/img/logo.png
+description: Static Redux Books App
+show_downloads: true
+theme: jekyll-theme-minimal
